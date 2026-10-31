@@ -66,6 +66,17 @@ The application is planned with six primary screens:
 5. **Report Bus Issue** – Submit bus-related issues and service updates.
 6. **Saved Routes and Alerts** – Access favourite routes and notification preferences.
 
+### 🖼️ Screen Designs
+
+| Screen | Preview |
+|---|---|
+| **01 – Home Dashboard** | ![Home Dashboard](Design/Home.png) |
+| **02 – Search Bus & Route** | ![Search Route](Design/Search_Route.png) |
+| **03 – Route Details & Arrival** | ![Route Details](Design/Route_Details.png) |
+| **04 – Crowd Status** | ![Crowd Status](Design/Crowd_Status.png) |
+| **05 – Report Bus Issue** | ![Report Issue](Design/Report_Issue.png) |
+| **06 – Saved Routes & Alerts** | ![Saved Routes](Design/Saved_Routes.png) |
+
 ## 🔄 Navigation Flow
 
 Home Dashboard → Search Bus and Route → Route Results → Route Details
@@ -76,6 +87,11 @@ From Route Details, users can:
 - Save a route.
 
 Users can also access Saved Routes directly through the bottom navigation.
+
+### 📊 Navigation Flow Diagram
+
+![BusBridge App Navigation Flow](Flowchart/Navigation_Flow.png)
+
 
 ## 🛠️ Proposed Technology Stack
 
@@ -119,7 +135,7 @@ SWYNEX-App-Concept-and-Screen-Flow/
 ├── README.md
 │
 ├── Documentation/
-│   └── BusBridge_Project_Document.docx
+│   └── BusBridge_Project_Document.pdf
 │
 ├── Design/
 │   ├── Home.png
@@ -132,8 +148,6 @@ SWYNEX-App-Concept-and-Screen-Flow/
 └── Flowchart/
     └── Navigation_Flow.png
 ```
-
-*The folders and design screenshots will be added as the project progresses.*
 
 ## 🎓 Internship Information
 
